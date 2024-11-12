@@ -1,6 +1,6 @@
 SETUP_INFO = dict(
     name='infi.clickhouse_orm',
-    version='2.13.rvm',
+    version='2.1.4',
     url='https://github.com/ROmamo/infi.clickhouse_orm',
     license='BSD',
     description="""A Python library for working with the ClickHouse database""",
